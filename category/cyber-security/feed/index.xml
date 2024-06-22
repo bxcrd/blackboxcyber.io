@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Cyber Security &#8211; Blackbox Cyber | Your Cyber Security Solutions Partner &#8211; Australia</title>
+	<atom:link href="/category/cyber-security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Managed Services Provider &#38; Managed Security Services Provider</description>
+	<lastBuildDate>Fri, 11 Feb 2022 14:11:43 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-favicon-32x32.png</url>
+	<title>Cyber Security &#8211; Blackbox Cyber | Your Cyber Security Solutions Partner &#8211; Australia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Combatting Business Email Compromise</title>
+		<link>/combatting-business-email-compromise/</link>
+		
+		<dc:creator><![CDATA[Blackbox Cyber]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2022 15:49:07 +0000</pubDate>
+				<category><![CDATA[Cyber Security]]></category>
+		<guid isPermaLink="false">https://gpsites.co/cloud/?p=621</guid>
+
+					<description><![CDATA[An old scam that keeps reinventing itself &#8230;&#160; You’ve probably heard the classic&#160;business&#160;email&#160;compromise&#160;(BEC) scam&#160;about Nigerian princes&#160;who want&#160;to deposit money in&#160;people’s&#160;bank accounts—but first need&#160;their prey&#160;to send them money to make it all work to plan.&#160;It’s an oldie&#160;but goodie. Unfortunately,&#160;it’s also&#160;one that keeps reinventing itself along with another batch of unwitting victims.&#160;In fact, it happens so often, ... <a title="Combatting Business Email Compromise" class="read-more" href="/combatting-business-email-compromise/" aria-label="More on Combatting Business Email Compromise">Read more</a>]]></description>
+										<content:encoded><![CDATA[<div class="gb-container gb-container-cee4f5fa"><div class="gb-inside-container">
+
+<h2 class="gb-headline gb-headline-75585620 gb-headline-text"><a href="/cybersecurity/" data-type="URL" data-id="/cybersecurity/"><em>An old scam that keeps reinventing itself &#8230;</em>&nbsp;</a></h2>
+
+
+
+<p>You’ve probably heard the classic&nbsp;business&nbsp;email&nbsp;compromise&nbsp;(BEC) scam&nbsp;about Nigerian princes&nbsp;who want&nbsp;to deposit money in&nbsp;people’s&nbsp;bank accounts—but first need&nbsp;their prey&nbsp;to send them money to make it all work to plan.&nbsp;It’s an oldie&nbsp;but goodie. Unfortunately,&nbsp;it’s also&nbsp;one that keeps reinventing itself along with another batch of unwitting victims.&nbsp;In fact, it happens so often, BEC scams currently outdo ransomware as the most damaging cyberattack in the world.&nbsp;</p>
+
+
+
+<p>In fact, according to the FBI’s&nbsp;<a href="https://www.ic3.gov/" target="_blank" rel="noreferrer noopener">Internet Crime Complaint Center</a>&nbsp;(IC3), in 2020, losses from BEC exceeded $1.8 billion—that’s a fourfold increase since 2016! The number of BEC incidents also rose by 61% between 2016 and 2020. Using tactics that play off real-time world events,&nbsp;such as COVID-19 or the trust of established interpersonal relationships, criminal elements have managed to stay ahead of&nbsp;the good guys with increased&nbsp;sophistication&nbsp;and swiftness.&nbsp;</p>
+
+
+
+<ul><li>Healthcare provides bilked by criminals posing&nbsp;as trusted vendors with access to much-needed personal protection equipment&nbsp;</li><li>A large social media firm handed over personal payroll information about employees to an individual they thought was their CEO&nbsp;</li><li>A non-profit organization was fooled into transferring a large loan to a business partner right into the hands of the threat actor&nbsp;&nbsp;</li></ul>
+
+
+
+<p>To protect yourself and your business from these types of attacks, employee education is essential. For example, if someone in your accounts payable department receives an email from a business partner&nbsp;requesting you alter established wire transfer information,&nbsp;be sure&nbsp;your staff&nbsp;are trained to recognize the request as a red flag and confirm directly with their point of contact details of the&nbsp;change. It seems second nature, but when people are busy and working against deadlines, it’s easy to miss a well-disguised ruse.&nbsp;</p>
+
+
+<div class="gb-container gb-container-a571ee98"><div class="gb-inside-container">
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2022/02/design-desk-display-313690-1024x768.jpg" alt="" class="wp-image-1477" srcset="/wp-content/uploads/2022/02/design-desk-display-313690-1024x768.jpg 1024w, /wp-content/uploads/2022/02/design-desk-display-313690-300x225.jpg 300w, /wp-content/uploads/2022/02/design-desk-display-313690-768x576.jpg 768w, /wp-content/uploads/2022/02/design-desk-display-313690-1536x1152.jpg 1536w, /wp-content/uploads/2022/02/design-desk-display-313690-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+</div></div>
+
+
+<h3 class="gb-headline gb-headline-4965b32b gb-headline-text"><a href="/services/" data-type="URL" data-id="/services/">Don&#8217;t become the next statistic</a>&#8230;</h3>
+
+
+
+<p>From a defense in-depth perspective, it’s also essential to ensure you have a layer of threat detection in place to help identify malicious behavior, alert of the threat, and inform the correct response and remediation measures. This would include:</p>
+
+
+
+<p><strong>Monitoring for anomalous behavior, both on-premises and in the cloud</strong></p>
+
+
+
+<p>BEC threats rely on looking like normal user activity. With an increase in remote work, companies are relying more on cloud services like Microsoft® Office 365® which puts data into a complex environment that&#8217;s often under-protected. Once threat actors can get access to Office 365, getting to the juicy data is just a few clicks away. Traditional perimeter security tools, such as firewalls, aren’t able to monitor suspicious activity in cloud-hosted applications like Office 365, SharePoint, or OneDrive. The same applies to monitoring of your endpoints for suspicious activity. If a threat actor slips past perimeter defense and acquires user credentials, it will be difficult to identify threats that appear as typical activity.</p>
+
+
+
+<p><strong>Having enough IT Security staff</strong></p>
+
+
+
+<p>When something nefarious goes down, you need to know immediately. Too many businesses lack the ability to dedicate staff to 24/7 monitoring of their environment. If an alert goes off at 1 a.m., the time lost until someone sees it and makes sense of it could be the difference between defense of the business or catastrophic damage. Managed threat detection and response can be a force multiplier if you are unable to monitor your environment 24/7.</p>
+
+
+
+<p>While there are many aspects to improving your defense in-depth, the following from the FBI act as good and effective tips to share with employees to help elevate everyone’s awareness of how to avoid business email compromise attacks.</p>
+
+
+
+<ul><li>Be skeptical—Last-minute changes in wiring instructions or recipient account information must be verified.</li><li>Don&#8217;t click it—Verify any changes and information via the contact on file—do not contact the vendor through the number provided in the email.</li><li>Double check that URL—Ensure the URL in the email is associated with the business it claims to be from.</li><li>Spelling counts—Be alert to misspelled hyperlinks in the actual domain name.</li><li>It&#8217;s a match—Verify the email address used to send emails, especially when using a mobile or handheld device, by ensuring the sender’s email address appears to match who it&#8217;s coming from.</li><li>Pay attention—Often there are clues with business email compromise, e.g.:<ul><li>An&nbsp;employee who does not normally interact with the CEO receives an urgent request from them</li><li>Data&nbsp;shows an employee in one location at&nbsp;1 p.m.&nbsp;but halfway around the globe 10 minutes later</li><li>Active&nbsp;activity from an employee who is supposed to be on leave&nbsp;</li></ul></li><li>If you see something, say something—If something looks awry, report it to your managed service provider or IT Security supervisor. And if you have been a victim of BEC, file a detailed complaint with IC3.</li></ul>
+
+
+
+<p><br>To learn more about business email compromise threats and defense against them, can provide you with guidance, education, and technology to strengthen your security posture. </p>
+
+
+
+<p>Give us a call and let’s discuss.</p>
+
+</div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
